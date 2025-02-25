@@ -1,6 +1,4 @@
-# Job Portal Project (Easily)
-
-[Demo](https://easily-wudl.onrender.com)
+# Job Portal
 
 This is a simple Job Portal web application that allows users to browse jobs, apply for positions, and manage job listings.
 
