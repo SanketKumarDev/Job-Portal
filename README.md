@@ -35,7 +35,7 @@ This is a simple Job Portal web application that allows users to browse jobs, ap
    ```
 4. Open your browser and go to:
    ```
-   http://localhost:3000
+   http://localhost:8000
    ```
 
 ## Project Structure
